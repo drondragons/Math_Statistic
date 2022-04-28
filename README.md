@@ -6,10 +6,10 @@
 	<li> <a href="#Вступление">Вступление</a> </li>
 	<li> <a href="#Мероприятия_по_курсу">Мероприятия по курсу</a>
 		<ol type="1"> 
-			<li> <a href="https://github.com/drondragons/Math_Statistic/tree/master/Theory_RK">Рубежные контроли</a> 
+			<li> <a href="https://github.com/drondragons/Math_Statistic/tree/master/RK">Рубежные контроли</a> 
 				<ul>
-					<li> [ ] Рубежный контроль №1 </li>
-					<li> [ ] Рубежный контроль №2 </li>
+					<li> [X] <a href="https://github.com/drondragons/Math_Statistic/tree/master/RK/RK_1">Рубежный контроль №1 </a> </li>
+					<li> [ ] <a href="https://github.com/drondragons/Math_Statistic/tree/master/RK/RK_2">Рубежный контроль №2 </a> </li>
 				</ul>
 			</li>
 			<li> <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories"> Лабораторные работы </a>
