@@ -14,8 +14,8 @@
 			</li>
 			<li> <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories"> Лабораторные работы </a>
 				<ul>
-					<li> [ ] <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories/Laboratory_1">Лабораторная работа №1 </a> </li>
-					<li> [ ] <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories/Laboratory_2">Лабораторная работа №2 </a> </li>
+					<li> [X] <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories/Laboratory_1">Лабораторная работа №1 </a> </li>
+					<li> [X] <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories/Laboratory_2">Лабораторная работа №2 </a> </li>
 					<li> [ ] <a href="https://github.com/drondragons/Math_Statistic/tree/master/Laboratories/Laboratory_3">Лабораторная работа №3 </a> </li>
 				</ul>
 			</li>
